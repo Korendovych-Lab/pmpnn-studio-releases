@@ -16,7 +16,7 @@ Get the latest installer from [Releases](../../releases/latest).
 |---|---|
 | Windows 10/11 | `PMPNN Studio_<version>_x64-setup.exe` |
 | macOS 11+, Apple silicon | `PMPNN Studio_<version>_aarch64.dmg` |
-| Linux | `.AppImage`, or `.deb` for Debian and Ubuntu |
+| Linux (Debian, Ubuntu) | `PMPNN Studio_<version>_amd64.deb` |
 
 Everything needed to run designs is included — Python, PyTorch and the model weights.
 There is no conda environment to set up, nothing is downloaded on first launch, and
